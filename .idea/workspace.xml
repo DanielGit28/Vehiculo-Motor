@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7ea42b5e-d454-41ac-b459-6b124c9f6f89" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/tarea2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/tarea2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/tarea2/bl/entidades/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/tarea2/bl/entidades/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/tarea2/bl/entidades/Motor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/tarea2/bl/entidades/Motor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/tarea2/bl/logica/Gestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/tarea2/bl/logica/Gestor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/tarea2/controlador/Controlador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/tarea2/controlador/Controlador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/tarea2/iu/IU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/tarea2/iu/IU.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,9 +73,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1095" height="279" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603669769057" />
-    <state x="-6" y="3" width="787" height="1019" key="dock-window-1" timestamp="1603669413423">
+    <state x="-6" y="3" width="787" height="1019" key="dock-window-1" timestamp="1603670315294">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="-6" y="3" width="787" height="1019" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603669413423" />
+    <state x="-6" y="3" width="787" height="1019" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603670315294" />
   </component>
 </project>
